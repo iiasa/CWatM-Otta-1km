@@ -1,2 +1,2 @@
-python C:\Users\jefe\Documents\GitHub\CWatM\run_cwatm.py settings_norway_template_test_KGE_PS_glaciers_ratio_res_mgt_meanV3_transfer1.ini -l
+python C:\Users\jefe\Documents\GitHub\CWatM\run_cwatm.py settings_norway_template_All_dvlps_medianv3Tranf.ini -l
 pause
